@@ -1,0 +1,4 @@
+interface:
+  display_name: "Creative Absurd Analysis"
+  short_description: "Generate and run unconventional prompt-based analysis kits for creative reframing and decision support."
+  default_prompt: "Use $creative-absurd-analysis to produce chaos/lateral-thinking prompt packs for the current user context and return high-signal, actionable outputs."
