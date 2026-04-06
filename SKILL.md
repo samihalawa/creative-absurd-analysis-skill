@@ -1,5 +1,7 @@
+---
 name: creative-absurd-analysis
 description: "Generate and run absurdist creative-analysis prompts (chaos, paradox, and constraint overload techniques) when the user wants unconventional, high-signal reframing instead of standard summaries."
+---
 
 # Creative Absurd Analysis Skill
 
@@ -101,4 +103,3 @@ Use this template in results:
 - **Findings**
 - **Prioritized Actions**
 - **Validation Check**
-
